@@ -1,0 +1,31 @@
+.logo {
+  background-color: rgb(245, 212, 212);
+  height: 60px;
+  width: 1000px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: left;
+}
+.logo_image {
+  align-items: center;
+  display: flex;
+  padding-top: 7px;
+}
+.logo_text {
+  align-items: center;
+  display: flex;
+  font-weight: 600;
+  color: rgb(85, 85, 204);
+  margin: 0 10px;
+}
+
+.logo_serach {
+  align-items: center;
+  display: flex;
+}
+
+.logo_back {
+  align-items: center;
+  display: flex;
+}

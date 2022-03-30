@@ -1,0 +1,9 @@
+@import "reset.css";
+
+/* Components */
+
+@import "component/categori.css";
+@import "component/logo.css";
+@import "component/widget.css";
+
+/* Screens */

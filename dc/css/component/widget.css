@@ -1,0 +1,31 @@
+.widget {
+  background-color: rgb(226, 101, 101);
+  height: 30px;
+  width: 1000px;
+  margin: 0 auto;
+}
+.widget__link {
+  padding: 10px;
+  display: flex;
+  font-size: 5px;
+  justify-content: right;
+}
+.widget__link .fa-ellipsis-vertical {
+  margin: 0px 5px;
+  color: rgb(97, 97, 97);
+}
+
+.widget__link .fa-bolt {
+  margin: 0px 5px;
+  color: rgb(255, 255, 255);
+}
+
+.widget__link .fa-cog {
+  margin: 0px 5px;
+  color: rgb(56, 53, 53);
+}
+
+.widget__login {
+  background-color: rgb(90, 90, 207);
+  color: white;
+}
